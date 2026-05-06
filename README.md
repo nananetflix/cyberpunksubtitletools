@@ -57,8 +57,3 @@ by_quest — a folder containing one subfolder for each quest. Phantom Liberty q
 Lines look like this:
 [41003] [F] V: Wasn't sure I would.  ||  [M] V: Wasn't sure I'd make it.
 The [F] and [M] markers only show up when the female V and male V say something different. Most of the time they say the same thing and the line just appears once.
-If something goes wrong
-The black window says "'python' is not recognized" — close that window completely and open a fresh one. Python only becomes available in new windows opened after it was installed.
-"Parsed 0 lines" — the WolvenKit conversion didn't actually work. Go back to Step 1, open one of the JSON files in Notepad, and confirm you can see readable dialogue. If you can't, the conversion step in WolvenKit needs to be redone.
-Files showing up in a folder called _misc — nothing's broken. These are usually tutorial messages or generic background chatter whose filenames don't follow the standard quest naming pattern.
-If you get stuck, copy the error message exactly and paste it back here and I'll help you sort it.
